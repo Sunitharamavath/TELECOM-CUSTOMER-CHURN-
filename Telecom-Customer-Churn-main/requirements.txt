@@ -1,0 +1,15 @@
+
+streamlit==1.39.0
+pandas==2.2.3
+numpy==2.1.2
+scikit-learn==1.5.2
+
+
+matplotlib==3.9.2
+seaborn==0.13.2
+shap==0.46.0
+joblib==1.4.2
+
+
+setuptools>=68.0
+wheel>=0.41
